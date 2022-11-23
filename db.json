@@ -1,0 +1,80 @@
+{
+  "hamburgueria": [
+    {
+      "id": 1,
+      "hamburguer": "X-salada",
+      "bebida": "Coca-cola",
+      "acompanhamento": "batata frita"
+    },
+    {
+      "id": 2,
+      "hamburguer": "X-picanha",
+      "bebida": "Guaraná",
+      "acompanhamento": "Onin Rings"
+    },
+    {
+      "id": 3,
+      "hamburguer": "X-tudo",
+      "bebida": "Pepsi",
+      "acompanhamento": "Nuggets"
+    },
+    {
+      "id": 4,
+      "hamburguer": "X-duplo",
+      "bebida": "Fanta laranja",
+      "acompanhamento": "Sunday"
+    }
+  ],
+  "funcionarios": [
+    {
+      "nome": "Paulo",
+      "matricula": "20193401",
+      "endereço": "Rua domingos bastos 1",
+      "id": 1
+    },
+    {
+      "nome": "Sara",
+      "matricula": "20193402",
+      "endereço": "Rua domingos bastos 2",
+      "id": 2
+    },
+    {
+      "nome": "Fernando",
+      "matricula": "20193403",
+      "endereço": "Rua domingos bastos 3",
+      "id": 3
+    },
+    {
+      "nome": "Rose",
+      "matricula": "20193404",
+      "endereço": "Rua domingos bastos 4",
+      "id": 4
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "Luana",
+      "endereço": "Rua borges 01",
+      "telefone": "21976453434",
+      "id": 1
+    },
+    {
+      "nome": "Santiago",
+      "endereço": "Rua borges 02",
+      "telefone": "21976453434",
+      "id": 2
+    },
+    {
+      "nome": "Vinicius",
+      "endereço": "Rua borges 03",
+      "telefone": "21976453434",
+      "id": 3
+    },
+    {
+      "nome": "Lara",
+      "endereço": "Rua borges 04",
+      "telefone": "21976453434",
+      "id": 4
+    }
+  ]
+}
